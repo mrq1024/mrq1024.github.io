@@ -1,7 +1,7 @@
 const path = require('path')
 const {defaultTheme} = require("@vuepress/theme-default")
 module.exports = {
-    base:'/blog/',
+    // base:'/blog/',
     title:'mzy1024',
     dest:`dist`,
     // theme: path.resolve(__dirname, './theme/index.js'),
