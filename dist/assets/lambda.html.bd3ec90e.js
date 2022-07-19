@@ -1,0 +1,1 @@
+const e={key:"v-00cbb41d",path:"/kotlin/lambda.html",title:"",lang:"en-US",frontmatter:{sidebar:!1,editLink:!1},excerpt:"",headers:[],git:{updatedTime:1658213803e3},filePathRelative:"kotlin/lambda.md"};export{e as data};

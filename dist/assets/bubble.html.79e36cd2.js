@@ -1,0 +1,1 @@
+const e={key:"v-4db938d4",path:"/algorithm/bubble.html",title:"",lang:"en-US",frontmatter:{sidebar:!1,editLink:!1},excerpt:"",headers:[{level:2,title:"\u5192\u6CE1\u6392\u5E8F",slug:"\u5192\u6CE1\u6392\u5E8F",children:[]}],git:{updatedTime:1658213803e3},filePathRelative:"algorithm/bubble.md"};export{e as data};

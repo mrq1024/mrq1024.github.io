@@ -1,0 +1,1 @@
+const e={key:"v-0205e045",path:"/kotlin/menu.html",title:"\u57FA\u7840",lang:"en-US",frontmatter:{editLink:!1,sidebar:!1},excerpt:"",headers:[{level:3,title:"\u51FD\u6570",slug:"\u51FD\u6570",children:[]},{level:3,title:"Lambda",slug:"lambda",children:[]}],git:{updatedTime:1658213803e3},filePathRelative:"kotlin/menu.md"};export{e as data};
