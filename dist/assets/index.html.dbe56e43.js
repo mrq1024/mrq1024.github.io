@@ -1,1 +1,0 @@
-const e={key:"v-8daa1a0e",path:"/",title:"",lang:"en-US",frontmatter:{home:!0,lastUpdatedText:"\u6700\u8FD1\u66F4\u65B0\u65F6\u95F4",heroImage:"/images/OIP-C.jpg",heroText:"\u4E0D\u7126\u4E0D\u71E5 \u7825\u783A\u524D\u884C",tagline:"\u751F\u547D\u4E0D\u606F coding\u4E0D\u6B62"},excerpt:"",headers:[],git:{updatedTime:1658213803e3},filePathRelative:"index.md"};export{e as data};

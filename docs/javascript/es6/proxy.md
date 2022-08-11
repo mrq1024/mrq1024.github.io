@@ -1,4 +1,0 @@
----
-editLink: false
-sidebar: false
----

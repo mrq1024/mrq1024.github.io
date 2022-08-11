@@ -1,1 +1,0 @@
-const e={key:"v-3316c7fc",path:"/javascript/api/menu.html",title:"",lang:"en-US",frontmatter:{editLink:!1,sidebar:!1,menu:!0},excerpt:"",headers:[{level:2,title:"\u539F\u751FAPI",slug:"\u539F\u751Fapi",children:[]}],git:{updatedTime:1658213803e3},filePathRelative:"javascript/api/menu.md"};export{e as data};

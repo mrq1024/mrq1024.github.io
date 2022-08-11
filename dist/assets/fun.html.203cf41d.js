@@ -1,1 +1,0 @@
-const e={key:"v-39afbfef",path:"/kotlin/fun.html",title:"",lang:"en-US",frontmatter:{sidebar:!1,editLink:!1},excerpt:"",headers:[{level:2,title:"\u51FD\u6570",slug:"\u51FD\u6570",children:[]}],git:{updatedTime:1658213803e3},filePathRelative:"kotlin/fun.md"};export{e as data};

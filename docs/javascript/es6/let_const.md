@@ -1,3 +1,0 @@
----
- date: yyyy-MM-dd
----

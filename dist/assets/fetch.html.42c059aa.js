@@ -1,1 +1,0 @@
-const t={key:"v-d7a629f4",path:"/html/features/fetch.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658213803e3},filePathRelative:"html/features/fetch.md"};export{t as data};
