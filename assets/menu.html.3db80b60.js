@@ -1,0 +1,1 @@
+const e={key:"v-bb93ddb6",path:"/javascript/base/menu.html",title:"",lang:"en-US",frontmatter:{editLink:!1,sidebar:!1},excerpt:"",headers:[{level:2,title:"\u57FA\u7840\u90E8\u5206",slug:"\u57FA\u7840\u90E8\u5206",children:[]}],git:{updatedTime:1652655631e3},filePathRelative:"javascript/base/menu.md"};export{e as data};

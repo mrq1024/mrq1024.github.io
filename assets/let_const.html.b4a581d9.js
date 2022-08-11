@@ -1,0 +1,1 @@
+const t={key:"v-bd0161ac",path:"/javascript/es6/let_const.html",title:"",lang:"en-US",frontmatter:{date:"yyyy-MM-dd"},excerpt:"",headers:[],git:{updatedTime:1644410092e3},filePathRelative:"javascript/es6/let_const.md"};export{t as data};

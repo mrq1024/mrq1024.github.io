@@ -1,0 +1,1 @@
+const e={key:"v-3be5c34a",path:"/javascript/es6/proxy.html",title:"",lang:"en-US",frontmatter:{editLink:!1,sidebar:!1},excerpt:"",headers:[],git:{updatedTime:1644410092e3},filePathRelative:"javascript/es6/proxy.md"};export{e as data};

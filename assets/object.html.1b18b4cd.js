@@ -1,0 +1,1 @@
+const e={key:"v-4a95259c",path:"/javascript/api/object.html",title:"",lang:"en-US",frontmatter:{editLink:!1,sidebar:!1},excerpt:"",headers:[],git:{updatedTime:1644410092e3},filePathRelative:"javascript/api/object.md"};export{e as data};
